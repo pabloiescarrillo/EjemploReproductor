@@ -31,7 +31,7 @@ public class MainActivity extends AppCompatActivity {
 
         loadComponents();
 
-        
+
     }
 
     private void loadComponents(){
